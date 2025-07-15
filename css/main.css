@@ -1,0 +1,29 @@
+#season ul li{
+  list-style-type: none;
+  text-align: left;
+  padding-bottom: 80px;
+  margin-left: -40px;
+}
+
+nav ul li{
+  list-style-type: none;
+}
+
+h2{
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding-left: 40px;
+}
+a{
+  color: #f91a7b;
+}
+a:hover{
+  color: #ffff00;
+}
+* {
+  box-sizing: border-box;
+}
+body header,h2,nav,#season ul li{
+  font-size: 14px;
+  text-align: center;
+}
